@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PetStore_Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>22102db7-7107-414c-b4c5-86bc3cf999cc</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>5eaa5027-d62c-47db-9852-4c2151ca47a4</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/DataSet</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7aae0e0a-5de0-4d8b-8e03-5d2ac27ae757</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>5eaa5027-d62c-47db-9852-4c2151ca47a4</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>username</value>
+      <variableId>03d9bf76-5740-43d2-ad7b-9ddceb891fb0</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>5eaa5027-d62c-47db-9852-4c2151ca47a4</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>password</value>
+      <variableId>bee4eb75-b5b1-4e33-9fe7-5958f28d18c3</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'https://petstore.octoperf.com/'</defaultValue>
+      <description></description>
+      <id>7aae0e0a-5de0-4d8b-8e03-5d2ac27ae757</id>
+      <masked>false</masked>
+      <name>URL</name>
+   </variable>
+   <variable>
+      <defaultValue>'mohan1'</defaultValue>
+      <description></description>
+      <id>03d9bf76-5740-43d2-ad7b-9ddceb891fb0</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'mohan1'</defaultValue>
+      <description></description>
+      <id>bee4eb75-b5b1-4e33-9fe7-5958f28d18c3</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

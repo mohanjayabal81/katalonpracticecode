@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS_PetStoreLogin</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>a0ae8cae-3b17-4e0f-bf77-4ca70163a20b</testSuiteGuid>
+   <testCaseLink>
+      <guid>3ba5c44f-bca2-46f7-bc19-72cc43e6741c</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/PetStore_Login</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>730b6073-87e8-47d8-95b5-bbb05ab7f911</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/DataSet</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>7aae0e0a-5de0-4d8b-8e03-5d2ac27ae757</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>730b6073-87e8-47d8-95b5-bbb05ab7f911</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
+         <variableId>03d9bf76-5740-43d2-ad7b-9ddceb891fb0</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>730b6073-87e8-47d8-95b5-bbb05ab7f911</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>bee4eb75-b5b1-4e33-9fe7-5958f28d18c3</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
