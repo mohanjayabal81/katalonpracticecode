@@ -27,12 +27,6 @@
       </testDataLink>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>7aae0e0a-5de0-4d8b-8e03-5d2ac27ae757</variableId>
-      </variableLink>
-      <variableLink>
          <testDataLinkId>730b6073-87e8-47d8-95b5-bbb05ab7f911</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>username</value>

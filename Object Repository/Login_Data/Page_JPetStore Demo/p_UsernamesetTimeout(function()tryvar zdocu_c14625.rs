@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_UsernamesetTimeout(function()tryvar zdocu_c14625</name>
+   <tag></tag>
+   <elementGuidId>6ee9a787-e691-4ecf-9bc4-6d719b5671c1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p:nth-of-type(2)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='Catalog']/form/p[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Username: Password:&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>42b09d62-55ff-48ca-a342-2f073a9ba7b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Username:setTimeout(function(){try{var z=document.getElementById('stripes--1242884695');z.focus();z.select();}catch(e){}},1); 
+	Password:</value>
+      <webElementGuid>35870eff-8e5e-434f-823c-4288825e83a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Catalog&quot;)/form[1]/p[2]</value>
+      <webElementGuid>37c17854-6d33-447f-8e86-8a221c68d164</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='Catalog']/form/p[2]</value>
+      <webElementGuid>44af06e1-75b1-44e4-b755-fbfc6e7e0a42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='?'])[1]/following::p[2]</value>
+      <webElementGuid>990955e7-0369-4d07-a387-03540048606d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Register Now!'])[1]/preceding::p[1]</value>
+      <webElementGuid>ec3a030c-5254-43fa-94dd-9a2cb1e0f64c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Username:']/parent::*</value>
+      <webElementGuid>671e14f8-ca48-4019-ac67-f9135fc285e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[2]</value>
+      <webElementGuid>177e7929-5f6e-44ac-ab5e-1fee6edef7de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = concat(&quot;Username:setTimeout(function(){try{var z=document.getElementById(&quot; , &quot;'&quot; , &quot;stripes--1242884695&quot; , &quot;'&quot; , &quot;);z.focus();z.select();}catch(e){}},1); 
+	Password:&quot;) or . = concat(&quot;Username:setTimeout(function(){try{var z=document.getElementById(&quot; , &quot;'&quot; , &quot;stripes--1242884695&quot; , &quot;'&quot; , &quot;);z.focus();z.select();}catch(e){}},1); 
+	Password:&quot;))]</value>
+      <webElementGuid>d11a8ffb-874d-4e00-96a7-9d2366cab8fa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

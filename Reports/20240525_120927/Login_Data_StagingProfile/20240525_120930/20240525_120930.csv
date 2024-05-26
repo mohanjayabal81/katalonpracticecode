@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Login_Data_StagingProfile,,,,25-05-2024 12:09:48,25-05-2024 12:09:55,7.108s,FAILED
+,,,,,,,
+Test Cases/Login1_Data,,,,25-05-2024 12:09:54,25-05-2024 12:09:55,1.109s,FAILED
+"openBrowser("""")",,,,25-05-2024 12:09:54,25-05-2024 12:09:55,1.067s,FAILED

@@ -1,0 +1,12 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS_Profile_Login,Chrome 125.0.0.0,,,25-05-2024 12:07:54,25-05-2024 12:08:01,6.890s,PASSED
+,,,,,,,
+Test Cases/Login,Chrome 125.0.0.0,,,25-05-2024 12:07:54,25-05-2024 12:08:01,6.693s,PASSED
+"openBrowser("""")",Chrome 125.0.0.0,,,25-05-2024 12:07:55,25-05-2024 12:07:57,2.403s,PASSED
+navigateToUrl(BaseURL),Chrome 125.0.0.0,,,25-05-2024 12:07:57,25-05-2024 12:07:58,1.201s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/LoginTestcase/Page_JPetStore Demo/a_Enter the Store""), 0)",Chrome 125.0.0.0,,,25-05-2024 12:07:58,25-05-2024 12:07:59,0.420s,PASSED
+"verifyElementText(findTestObject(""Object Repository/LoginTestcase/Page_JPetStore Demo/sub_Copyright www.mybatis.org""), ""Copyright www.mybatis.org"")",Chrome 125.0.0.0,,,25-05-2024 12:07:59,25-05-2024 12:07:59,0.368s,PASSED
+"verifyElementText(findTestObject(""Object Repository/LoginTestcase/Page_JPetStore Demo/h2_Welcome to JPetStore 6""), ""Welcome to JPetStore 6"")",Chrome 125.0.0.0,,,25-05-2024 12:07:59,25-05-2024 12:07:59,0.327s,PASSED
+"click(findTestObject(""Object Repository/LoginTestcase/Page_JPetStore Demo/a_Enter the Store""))",Chrome 125.0.0.0,,,25-05-2024 12:07:59,25-05-2024 12:08:00,1.068s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/LoginTestcase/Page_JPetStore Demo/a_Sign In""), 0)",Chrome 125.0.0.0,,,25-05-2024 12:08:00,25-05-2024 12:08:01,0.316s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,25-05-2024 12:08:01,25-05-2024 12:08:01,0.228s,PASSED

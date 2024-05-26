@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="LoginTestSuite_DefaultProfile" time="6.758" tests="1" failures="0" errors="0">
+   <testsuite name="LoginTestSuite_DefaultProfile" tests="1" failures="0" errors="0" time="6.758" skipped="0" timestamp="25-05-2024T12:09:35" hostname="WINDOWS11 - Mohan" id="Test Suites/LoginTestSuite_DefaultProfile">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\WINDOWS11\\git\\katalonpracticecode\\Reports\\20240525_120927\\LoginTestSuite_DefaultProfile\\20240525_120928"/>
+         <property name="logFiles" value="C:\\Users\\WINDOWS11\\git\\katalonpracticecode\\Reports\\20240525_120927\\LoginTestSuite_DefaultProfile\\20240525_120928\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="WINDOWS11 - Mohan"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.4.0.212"/>
+         <property name="browser" value="Chrome 125.0.0.0"/>
+         <property name="hostAddress" value="192.168.1.3"/>
+         <property name="sessionId" value="d0a17207a2eebbf8e8c1b0b817edbd9d"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/Login" time="6.568" classname="Test Cases/Login" status="PASSED">
+         <system-out><![CDATA[25-05-2024T12:09:35 - [TEST_CASE][PASSED] - Test Cases/Login: Test Cases/Login
+
+25-05-2024T12:09:35 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+25-05-2024T12:09:36 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+25-05-2024T12:09:36 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+25-05-2024T12:09:38 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+25-05-2024T12:09:38 - [TEST_STEP][PASSED] - navigateToUrl(BaseURL): Navigate to 'https://petstore.octoperf.com/' successfully
+
+25-05-2024T12:09:39 - [MESSAGE][PASSED] - Navigate to 'https://petstore.octoperf.com/' successfully
+
+25-05-2024T12:09:39 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/LoginTestcase/Page_JPetStore Demo/a_Enter the Store"), 0): Object 'Object Repository/LoginTestcase/Page_JPetStore Demo/a_Enter the Store' is present
+
+25-05-2024T12:09:39 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+25-05-2024T12:09:39 - [MESSAGE][PASSED] - Object 'Object Repository/LoginTestcase/Page_JPetStore Demo/a_Enter the Store' is present
+
+25-05-2024T12:09:39 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/LoginTestcase/Page_JPetStore Demo/sub_Copyright www.mybatis.org"), "Copyright www.mybatis.org"): Actual text and expected text of test object 'Object Repository/LoginTestcase/Page_JPetStore Demo/sub_Copyright www.mybatis.org' are matched.
+
+25-05-2024T12:09:40 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/LoginTestcase/Page_JPetStore Demo/sub_Copyright www.mybatis.org' are matched.
+
+25-05-2024T12:09:40 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/LoginTestcase/Page_JPetStore Demo/h2_Welcome to JPetStore 6"), "Welcome to JPetStore 6"): Actual text and expected text of test object 'Object Repository/LoginTestcase/Page_JPetStore Demo/h2_Welcome to JPetStore 6' are matched.
+
+25-05-2024T12:09:40 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/LoginTestcase/Page_JPetStore Demo/h2_Welcome to JPetStore 6' are matched.
+
+25-05-2024T12:09:40 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/LoginTestcase/Page_JPetStore Demo/a_Enter the Store")): Object: 'Object Repository/LoginTestcase/Page_JPetStore Demo/a_Enter the Store' is clicked on
+
+25-05-2024T12:09:41 - [MESSAGE][PASSED] - Object: 'Object Repository/LoginTestcase/Page_JPetStore Demo/a_Enter the Store' is clicked on
+
+25-05-2024T12:09:41 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/LoginTestcase/Page_JPetStore Demo/a_Sign In"), 0): Object 'Object Repository/LoginTestcase/Page_JPetStore Demo/a_Sign In' is present
+
+25-05-2024T12:09:41 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+25-05-2024T12:09:41 - [MESSAGE][PASSED] - Object 'Object Repository/LoginTestcase/Page_JPetStore Demo/a_Sign In' is present
+
+25-05-2024T12:09:41 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+25-05-2024T12:09:42 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[25-05-2024T12:09:35 - [TEST_SUITE][PASSED] - LoginTestSuite_DefaultProfile: Test Cases/Login]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

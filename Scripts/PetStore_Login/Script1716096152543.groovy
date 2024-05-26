@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://petstore.octoperf.com/')
+WebUI.navigateToUrl(GlobalVariable.BaseURL)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Page_JPetStore Demo/h2_Welcome to JPetStore 6'), 'Welcome to JPetStore 6')
 
