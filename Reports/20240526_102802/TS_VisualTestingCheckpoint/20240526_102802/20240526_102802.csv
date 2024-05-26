@@ -1,0 +1,11 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS_VisualTestingCheckpoint,Chrome 125.0.0.0,,,26-05-2024 10:28:06,26-05-2024 10:28:13,7.357s,PASSED
+,,,,,,,
+Test Cases/VisualTestingTestcase,Chrome 125.0.0.0,,,26-05-2024 10:28:06,26-05-2024 10:28:13,7.080s,PASSED
+"openBrowser("""")",Chrome 125.0.0.0,,,26-05-2024 10:28:06,26-05-2024 10:28:08,1.975s,PASSED
+"navigateToUrl(""https://petstore.octoperf.com/actions/Catalog.action"")",Chrome 125.0.0.0,,,26-05-2024 10:28:08,26-05-2024 10:28:09,1.071s,PASSED
+"takeScreenshotAsCheckpoint(""homepage"")",Chrome 125.0.0.0,,,26-05-2024 10:28:09,26-05-2024 10:28:10,0.854s,PASSED
+"setText(findTestObject(""Object Repository/VisualTest/Page_JPetStore Demo/input__keyword""), ""Fish"")",Chrome 125.0.0.0,,,26-05-2024 10:28:10,26-05-2024 10:28:11,0.891s,PASSED
+"click(findTestObject(""Object Repository/VisualTest/Page_JPetStore Demo/input__searchProducts""))",Chrome 125.0.0.0,,,26-05-2024 10:28:11,26-05-2024 10:28:12,0.994s,PASSED
+"click(findTestObject(""Object Repository/VisualTest/Page_JPetStore Demo/a_Return to Main Menu""))",Chrome 125.0.0.0,,,26-05-2024 10:28:12,26-05-2024 10:28:13,0.626s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,26-05-2024 10:28:13,26-05-2024 10:28:13,0.364s,PASSED
